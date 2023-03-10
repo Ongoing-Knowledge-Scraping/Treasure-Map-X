@@ -3,7 +3,7 @@ Checkboard-style grid where User can place an "X" by entering horizontal / verti
 
 ## Treasure Map X ##
 
-![Treasure Map](<https://github.com/Ongoing-Knowledge-Scraping/Banker-Roulette/blob/main/Banker%20Roulette.gif> "Running the code")
+![Treasure Map](<https://github.com/Ongoing-Knowledge-Scraping/Treasure-Map-X/blob/main/Treasure%20Map%20X.gif> "Running the code")
 
 ## View on Replit ##
 
